@@ -20,3 +20,7 @@
 # OpenWhisk - Shared Memory Fork
 
 A slightly modified version of OpenWhisk that supports access to shared memory from serverless functions. It was designed to work with [Modern Data Systems Seminar Demo](https://github.com/espirin/sys-seminar).
+
+📄 Please refer to [OpenWhisk Documentation](https://github.com/apache/openwhisk) for instructions on how to install and run the project.
+
+👨‍🎓 2022 TUM Data Systems Seminar
