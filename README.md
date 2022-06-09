@@ -23,4 +23,4 @@ A slightly modified version of OpenWhisk that supports access to shared memory f
 
 📄 Please refer to [OpenWhisk Documentation](https://github.com/apache/openwhisk) for instructions on how to install and run the project.
 
-👨‍🎓 2022 TUM Data Systems Seminar
+👨‍🎓 2022 TUM - Modern Data Center Systems Seminar
