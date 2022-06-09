@@ -17,7 +17,7 @@
 #
 -->
 
-# OpenWhisk
+# OpenWhisk - Shared Memory Fork
 
 [![Build Status](https://travis-ci.com/apache/openwhisk.svg?branch=master)](https://travis-ci.com/github/apache/openwhisk)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
